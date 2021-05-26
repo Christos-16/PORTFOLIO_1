@@ -1,13 +1,18 @@
-# Example Site
-This is a sample readme file for our GitHub Example repository. 
+# Web Development Project: Portfolio Site
+Στο συγκεκριμένο αποθετήριο υπάρχει ο κώδικας της σελίδας του προσωπικού μου [Χαρτοφυλακίου](https://gracious-gates-c8cf2e.netlify.app/)
 
-* example 1
-* example 2
-* example 3
+## Συγκεκριμένα το αποθετήριο αποτελείται απο κώδικα:
 
-## Link Example
-[Christos Anastasiou](https://gracious-gates-c8cf2e.netlify.app/)
+* HTML
+* CSS
+* JavaScript
 
-1. Item 1
-2. Item 2
-3. Item 3
+## ----------------------------------------------------------
+
+# Web Development Project: Portfolio Site
+In this repository there is the code of my personal [Portfolio] page (https://gracious-gates-c8cf2e.netlify.app/)
+
+## Specifically, the repository consists of code:
+* HTML
+* CSS
+* JavaScript
