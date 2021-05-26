@@ -10,9 +10,11 @@
 ## ----------------------------------------------------------
 
 # Web Development Project: Portfolio Site
-In this repository there is the code of my personal [Portfolio] page (https://gracious-gates-c8cf2e.netlify.app/)
+In this repository there is the code of my personal page [Portfolio](https://gracious-gates-c8cf2e.netlify.app/)
 
 ## Specifically, the repository consists of code:
+
+
 * HTML
 * CSS
 * JavaScript
